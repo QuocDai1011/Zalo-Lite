@@ -159,7 +159,7 @@ Sau khi chạy lệnh trên, mở Docker Desktop, chọn Redis, đảm bảo tr�
 ### Bước 1: Clone dự án
 
 ```bash
-git clone https://github.com/Dinh-Nhan/Zalo-Lite.git
+git clone https://github.com/QuocDai1011/Zalo-Lite.git
 cd Zalo-Lite
 ```
 
